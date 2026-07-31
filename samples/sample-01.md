@@ -1,4 +1,4 @@
-# Sample 01
+# Sample 01 – Grammar & Proofreading Review
 
 ## Original Text
 
@@ -12,16 +12,27 @@ There are many people who want to learn English because it can help them get bet
 
 ---
 
-## Review Notes
+## Review Summary
 
-### Errors Found
+This review focuses on correcting grammar, spelling, capitalization, and sentence structure while preserving the author's intended meaning.
 
-- Subject–verb agreement
-- Incorrect plural form
-- Grammar
-- Capitalization
-- Word choice
+---
 
-### Summary
+## Corrections Made
 
-The sentence was corrected while preserving the original meaning and improving grammar, punctuation, and readability.
+| Issue | Description |
+|-------|-------------|
+| Grammar | Corrected verb agreement |
+| Spelling | "their" → "There", "peoples" → "people" |
+| Capitalization | English |
+| Word Choice | helping → help |
+
+---
+
+## Quality Checklist
+
+- [x] Grammar
+- [x] Spelling
+- [x] Capitalization
+- [x] Meaning Preserved
+- [x] Readability Improved
